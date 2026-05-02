@@ -1,18 +1,36 @@
-<h1 align="center">Hi 👋, I'm Cruzbaby</h1>
-<h3 align="center">I'm just an ordinary gamer.</h3>
+<h1 align="center">Hi 👋, I'm Pasavit (dekMolly)</h1>
+<h3 align="center">Full Stack Developer | Virtual World Architect | Founder of Observe Production</h3>
 
-- 🔭 I’m currently working on [Cruz Developer](https://discord.gg/PMJavgzSbR)
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-- 🌱 I’m currently learning **FiveM Scripts, Lua Basic, Js, Html, CSS**
+---
 
-- 👯 All of my projects are available at [Cruz Developer](https://discord.gg/PMJavgzSbR)
+### 🛠️ About Me
+- 🔭 **Founder at:** [Observe Production](https://facebook.com/ObserveProduction) - Developing specialized systems and security logic
+- 🚀 **Current Projects:** 
+  - **Observe Sentinel:** Multi-tiered security & license management
+  - **Observe Payment:** Advanced payment gateway integration
+- 🌱 **Deep Diving:** Mastering **FiveM Scripting (Lua)**, **Automated Trading Systems (XAUUSD)**, and **IoT Integration**
+- ⚡ **Specialties:** UI/UX Redesign, Software Automation (PowerShell/AHK), and Anti-Tamper Logic
 
-- 💬 Ask me about **Edit Interface**
+### 🖥️ Tech Stack
+- **Frontend:** Next.js, React Native, Tailwind CSS, v0
+- **Backend:** NestJS, Node.js, Webhooks API
+- **Automation:** PowerShell, AutoHotkey (Specializing in Sequential Installers)
+- **Tools:** Cursor, Claude, TradingView
 
-- 💬 Out Source **Observe Production**
-
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with me:
 <p align="left">
 <a href="https://instagram.com/pasavit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pasavit_" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/PMJavgzSbR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PMJavgzSbR" height="30" width="40" /></a>
+<a href="https://discord.gg/PMJavgzSbR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
